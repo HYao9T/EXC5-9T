@@ -1,0 +1,25 @@
+
+
+
+body{
+	background-color: lavenderblush;
+	font-family: monaco;
+	color: black;
+}
+
+.container{
+	background-color: hotpink;
+	color: white;
+}
+
+.footer{
+	position: fixed;
+	background-color: #d1b8bd;
+	text-align: center;
+	width: 100%;
+	bottom: 0;
+}
+
+a{
+	color: white;
+}
